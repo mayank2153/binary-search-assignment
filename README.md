@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 This repository contains solutions for four binary search-related problems. The assignment aims to strengthen your understanding of the binary search algorithm and its applications in solving complex problems efficiently. Each problem requires an implementation of the binary search approach in different scenarios.
 
 ## Questions
